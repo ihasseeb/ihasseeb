@@ -1,4 +1,4 @@
-<img src="https://cdn.vectorstock.com/i/500p/23/07/web-blue-banner-software-ui-and-development-vector-42172307.jpg">
+<img src="https://media.licdn.com/dms/image/C5612AQEju1qnUQpkUA/article-cover_image-shrink_720_1280/0/1599741957570?e=2147483647&v=beta&t=rqri5338QVMvbbB9DgbGwkNQR1j5E5gTDyI71ClpG1w">
 <h1 align="center">Hi 👋, I'm HaseeB</h1>
 <h3 align="center">A passionate Front-End Developer skilled in HTML, CSS, JavaScript, React.js, and responsive design frameworks.</h3>
 
