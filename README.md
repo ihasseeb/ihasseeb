@@ -1,4 +1,4 @@
-![logo](https://github.com/ihasseeb/ihasseeb/blob/main/web-blue-banner-software-ui-and-development-vector-42172307.jpg)
+<img src="https://github.com/ihasseeb/ihasseeb/blob/main/web-blue-banner-software-ui-and-development-vector-42172307.jpg">
 <h1 align="center">Hi 👋, I'm HaseeB</h1>
 <h3 align="center">A passionate Front-End Developer skilled in HTML, CSS, JavaScript, React.js, and responsive design frameworks.</h3>
 <img align ="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
