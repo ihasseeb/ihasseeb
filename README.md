@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  <img align="right"  src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" alt="coding gif" />
+  <img align="right"  src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" alt="coding gif" />
 </p>
 
 ### 🛠 Tech Stack:
