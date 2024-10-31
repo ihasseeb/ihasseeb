@@ -1,4 +1,4 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdXR4tPNJslFAHnOp8C44TkJfjG5xFIEY3AA&s">
+<img width="600" aligh="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdXR4tPNJslFAHnOp8C44TkJfjG5xFIEY3AA&s">
 <h1 align="center">Hi 👋, I'm HaseeB</h1>
 <h3 align="center">A passionate Front-End Developer skilled in HTML, CSS, JavaScript, React.js, and responsive design frameworks.</h3>
 
