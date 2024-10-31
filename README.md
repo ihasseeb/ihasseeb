@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/C4E1BAQFzjEhDqSs3VA/company-background_10000/company-background_10000/0/1584581678846/floatingdots_software_cover?e=2147483647&v=beta&t=VheDJNJrAOB3inNgu8qRKI7OHEJ8js5ypxpq1lhl4Pk">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJmtUpYoaOWc1TvToSWHP3640cBP9niVbJAg&s">
 <h1 align="center">Hi 👋, I'm HaseeB</h1>
 <h3 align="center">A passionate Front-End Developer skilled in HTML, CSS, JavaScript, React.js, and responsive design frameworks.</h3>
 
