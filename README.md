@@ -15,7 +15,7 @@
 ### 🛠 Tech Stack:
 
 - **Languages**:
-- 
+ 
   ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
@@ -24,12 +24,14 @@
   ![Less](https://img.shields.io/badge/Less-%23E5E5E5.svg?style=flat&logo=less&logoColor=black)
   ![Markdown](https://img.shields.io/badge/Markdown-%23121011.svg?style=flat&logo=markdown&logoColor=white)
 
-- **Libraries & Frameworks**: 
+- **Libraries & Frameworks**:
+ 
   ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
   ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 
-- **APIs**: 
+- **APIs**:
+  
   ![REST API](https://img.shields.io/badge/REST_API-%234B0082.svg?style=flat&logo=api&logoColor=white)
   ![GraphQL](https://img.shields.io/badge/GraphQL-%E10098.svg?style=flat&logo=graphql&logoColor=white)
   ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat&logo=firebase&logoColor=black)
