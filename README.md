@@ -21,8 +21,6 @@
   ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
   ![TypeScript](https://img.shields.io/badge/TypeScript-%230e84c3.svg?style=flat&logo=typescript&logoColor=white)
   ![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?style=flat&logo=sass&logoColor=white)
-  ![Less](https://img.shields.io/badge/Less-%23E5E5E5.svg?style=flat&logo=less&logoColor=black)
-  ![Markdown](https://img.shields.io/badge/Markdown-%23121011.svg?style=flat&logo=markdown&logoColor=white)
 
 - **Libraries & Frameworks**:
  
