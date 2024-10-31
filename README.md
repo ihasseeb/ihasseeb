@@ -33,11 +33,11 @@
 
 - **Project 1**: [https://github.com/ihasseeb/Bankist](#)
   <br>
-  A brief description of what the project does, technologies used, and your role in its development.
+  The Bankist App features secure login, real-time account balance and transaction history, fund transfers, loan requests, and an automatic logout for security. This provides a streamlined, interactive online banking experience.
 
 - **Project 2**: [https://github.com/ihasseeb/PIG-GAME-Ludo-star-](#)
   <br>
-  Another brief description of a project, possibly focusing on a specific technology or concept.
+ The Pig Game is a two-player dice game where players roll to accumulate points. Rolling a 1 ends their turn with no points, while choosing to "hold" saves their score. The first to reach 100 points wins, blending luck with strategy.
 
 ---
 
