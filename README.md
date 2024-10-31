@@ -1,4 +1,4 @@
-<img  widht="800" height="300" src="https://t3.ftcdn.net/jpg/02/14/53/92/360_F_214539232_YnUrtuwUEt84gHuU0qG8l7OwZvH4rnPG.jpg">
+<img  widht="800" height="300" src="https://images.pexels.com/photos/16023919/pexels-photo-16023919/free-photo-of-photo-of-a-html-code.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
 <h1 align="center">Hi 👋, I'm HaseeB</h1>
 <h3 align="center">A passionate Front-End Developer skilled in HTML, CSS, JavaScript, React.js, and responsive design frameworks.</h3>
 
