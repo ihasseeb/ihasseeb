@@ -1,12 +1,9 @@
-  <img allt="coding" heigt="200" src="https://cdn.vectorstock.com/i/500p/23/07/web-blue-banner-software-ui-and-development-vector-42172307.jpg">
+<img alt="coding" height="200" src="https://cdn.vectorstock.com/i/500p/23/07/web-blue-banner-software-ui-and-development-vector-42172307.jpg">
 <h1 align="center">Hi 👋, I'm HaseeB</h1>
 <h3 align="center">A passionate Front-End Developer skilled in HTML, CSS, JavaScript, React.js, and responsive design frameworks.</h3>
-<!-- <img align ="right" alt="coding" width="350"  src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"> -->
-
-
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="HaseeB" />
 </p>
 
 ---
@@ -17,18 +14,29 @@
   ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-%230e84c3.svg?style=flat&logo=typescript&logoColor=white)
+  ![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?style=flat&logo=sass&logoColor=white)
+  ![Less](https://img.shields.io/badge/Less-%23E5E5E5.svg?style=flat&logo=less&logoColor=black)
+  ![Markdown](https://img.shields.io/badge/Markdown-%23121011.svg?style=flat&logo=markdown&logoColor=white)
 
 - **Libraries & Frameworks**: 
   ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
   ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 
+- **APIs**: 
+  ![REST API](https://img.shields.io/badge/REST_API-%234B0082.svg?style=flat&logo=api&logoColor=white)
+  ![GraphQL](https://img.shields.io/badge/GraphQL-%E10098.svg?style=flat&logo=graphql&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat&logo=firebase&logoColor=black)
+  ![Axios](https://img.shields.io/badge/Axios-%5A29E4.svg?style=flat&logo=axios&logoColor=white)
+  ![RESTful API](https://img.shields.io/badge/RESTful_API-%234B0082.svg?style=flat&logo=api&logoColor=white)
+
 ---
 
 ### 📈 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="yourusername" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="yourusername" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="ihasseeb" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="HaseeB" />
 </p>
 
 ---
@@ -41,7 +49,7 @@
 
 - **Project 2**: [https://github.com/ihasseeb/PIG-GAME-Ludo-star-](#)
   <br>
- The Pig Game is a two-player dice game where players roll to accumulate points. Rolling a 1 ends their turn with no points, while choosing to "hold" saves their score. The first to reach 100 points wins, blending luck with strategy.
+  The Pig Game is a two-player dice game where players roll to accumulate points. Rolling a 1 ends their turn with no points, while choosing to "hold" saves their score. The first to reach 100 points wins, blending luck with strategy.
 
 ---
 
