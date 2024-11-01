@@ -1,4 +1,4 @@
-<img align="center" width="1000" src="https://media.licdn.com/dms/image/v2/D4D16AQEu_F1g7hrdjQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1697973854794?e=2147483647&v=beta&t=ty_Bo_e3aY4ZBt4E9axbLTOes5qUYWHKg6Ah5I-QxX0">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmilad176&psig=AOvVaw0IdDRgCryV6qwgB9Sukrzr&ust=1730530615812000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPDr-IrHuokDFQAAAAAdAAAAABAE">
 <h1 align="center">Hi 👋, I'm HaseeB</h1>
 <h3 align="center">Undergraduate |Web Developer | Data Analysis | AI Aficionado</h3>
 
