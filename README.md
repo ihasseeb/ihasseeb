@@ -1,9 +1,13 @@
 <img src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif">
+
+<h1 align="center">Hi 👋, I'm HaseeB</h1>
 <h3 align="center">Undergraduate |Web Developer | Data Analysis | AI Aficionado</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="HaseeB" />
 </p>
+
+###
 
 
 - 🔭 I’m working **on my skills for now.**
@@ -32,6 +36,7 @@
   ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
   ![TypeScript](https://img.shields.io/badge/TypeScript-%230e84c3.svg?style=flat&logo=typescript&logoColor=white)
   ![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?style=flat&logo=sass&logoColor=white)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
 
 - **Libraries & Frameworks**:
  
