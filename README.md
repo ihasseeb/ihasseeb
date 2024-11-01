@@ -1,11 +1,23 @@
 <img align="center" width="1000" src="https://media.licdn.com/dms/image/v2/D4D16AQEu_F1g7hrdjQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1697973854794?e=2147483647&v=beta&t=ty_Bo_e3aY4ZBt4E9axbLTOes5qUYWHKg6Ah5I-QxX0">
 <h1 align="center">Hi 👋, I'm HaseeB</h1>
-<h3 align="center">A passionate Front-End Developer skilled in HTML, CSS, JavaScript, React.js, and responsive design frameworks.</h3>
+<h3 align="center">Undergraduate |Web Developer | Data Analysis | AI Aficionado</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="HaseeB" />
 </p>
 
+
+- 🔭 I’m working **on my skills for now.**
+
+- 🌱 I’m currently strenthening my grip on **Mern Stack.**
+
+- 🤝 I’m interested in **Development and Data Analysis.**
+
+- 🚀 Engaged in **innovation projects at various levels, from concept inception to implementation 💡**
+
+- 📫 How to reach me **iHaseeb0085@gmail.com**
+
+- ⚡ Fun fact: **When I'm not coding, you'll find me mastering new languages – not just programming ones, but spoken languages too!**
 ---
 
 <p align="center">
